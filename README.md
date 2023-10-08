@@ -1,4 +1,4 @@
-# Progetto - Sistemi Digitali M
+# Hide
 Il progetto **HIDE** nasce con l’obiettivo di creare un’**applicazione Android** in grado di rilevare e oscurare i volti e le scritte all’interno di immagini e video. 
 
 Nello specifico, l'applicazione prevede tre modalità di utilizzo:</br>
